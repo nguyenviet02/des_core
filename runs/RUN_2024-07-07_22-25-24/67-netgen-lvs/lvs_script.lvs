@@ -1,0 +1,11 @@
+puts "Reading SPICE netlist file '/home/nguyenviet/.volare/volare/sky130/versions/bdc9412b3e468c102d01b7cf6337be06ec6e9c9a/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_12.spice'..."
+readnet spice /home/nguyenviet/.volare/volare/sky130/versions/bdc9412b3e468c102d01b7cf6337be06ec6e9c9a/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__decap_12.spice 1
+puts "Reading SPICE netlist file '/home/nguyenviet/.volare/volare/sky130/versions/bdc9412b3e468c102d01b7cf6337be06ec6e9c9a/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_12.spice'..."
+readnet spice /home/nguyenviet/.volare/volare/sky130/versions/bdc9412b3e468c102d01b7cf6337be06ec6e9c9a/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_12.spice 1
+puts "Reading SPICE netlist file '/home/nguyenviet/.volare/volare/sky130/versions/bdc9412b3e468c102d01b7cf6337be06ec6e9c9a/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_4.spice'..."
+readnet spice /home/nguyenviet/.volare/volare/sky130/versions/bdc9412b3e468c102d01b7cf6337be06ec6e9c9a/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_4.spice 1
+puts "Reading SPICE netlist file '/home/nguyenviet/.volare/volare/sky130/versions/bdc9412b3e468c102d01b7cf6337be06ec6e9c9a/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_8.spice'..."
+readnet spice /home/nguyenviet/.volare/volare/sky130/versions/bdc9412b3e468c102d01b7cf6337be06ec6e9c9a/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_ef_sc_hd__fill_8.spice 1
+puts "Reading SPICE netlist file '/home/nguyenviet/.volare/volare/sky130/versions/bdc9412b3e468c102d01b7cf6337be06ec6e9c9a/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice'..."
+readnet spice /home/nguyenviet/.volare/volare/sky130/versions/bdc9412b3e468c102d01b7cf6337be06ec6e9c9a/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice 1
+lvs { /home/nguyenviet/Downloads/des/runs/RUN_2024-07-07_22-25-24/65-magic-spiceextraction/des_core.spice des_core } { /home/nguyenviet/Downloads/des/runs/RUN_2024-07-07_22-25-24/51-openroad-fillinsertion/des_core.pnl.v des_core } /nix/store/ch7vazi31cqikw3wq64qm4qh62m2dsrc-python3-3.11.6-env/lib/python3.11/site-packages/openlane/scripts/netgen/setup.tcl /home/nguyenviet/Downloads/des/runs/RUN_2024-07-07_22-25-24/67-netgen-lvs/reports/lvs.netgen.rpt -json

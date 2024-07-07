@@ -1,0 +1,5 @@
+`verilator_config
+lint_off -rule DECLFILENAME
+lint_off -rule EOFNEWLINE
+lint_off -rule UNDRIVEN -file "/home/nguyenviet/Downloads/des/runs/RUN_2024-07-07_22-25-24/tmp/b9f201b18a9c49b0981923df12660312.bb.v"
+lint_off -rule UNUSEDSIGNAL -file "/home/nguyenviet/Downloads/des/runs/RUN_2024-07-07_22-25-24/tmp/b9f201b18a9c49b0981923df12660312.bb.v"

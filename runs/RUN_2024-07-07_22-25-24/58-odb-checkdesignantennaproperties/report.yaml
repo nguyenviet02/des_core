@@ -1,0 +1,12 @@
+- cell: des_core
+  inout: []
+  input:
+  - des_key_in[0]
+  - des_key_in[16]
+  - des_key_in[24]
+  - des_key_in[32]
+  - des_key_in[40]
+  - des_key_in[48]
+  - des_key_in[56]
+  - des_key_in[8]
+  output: []

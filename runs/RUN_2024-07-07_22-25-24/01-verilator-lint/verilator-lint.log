@@ -1,0 +1,10 @@
+%Warning-UNUSEDSIGNAL: /home/nguyenviet/Downloads/des/des_core.v:15:14: Bits of signal are not used: 'des_key_in'[56,48,40,32,24,16,8,0]
+                                                                      : ... note: In instance 'des_core'
+   15 | input [63:0] des_key_in;
+      |              ^~~~~~~~~~
+                       ... For warning description see https://verilator.org/warn/UNUSEDSIGNAL?v=5.018
+                       ... Use "/* verilator lint_off UNUSEDSIGNAL */" and lint_on around source to disable this message.
+%Warning-UNUSEDSIGNAL: /home/nguyenviet/Downloads/des/des_core.v:37:13: Bits of signal are not used: 'cn_dn'[47,38,34,31,21,18,13,2]
+                                                                      : ... note: In instance 'des_core'
+   37 | wire [55:0] cn_dn;
+      |             ^~~~~

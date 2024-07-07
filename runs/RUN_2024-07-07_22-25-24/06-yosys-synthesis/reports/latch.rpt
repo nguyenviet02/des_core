@@ -1,0 +1,10 @@
+
+14. Executing PROC_DLATCH pass (convert process syncs to latches).
+No latch inferred for signal `\des_core.\s8_out' from process `\des_core.$proc$/home/nguyenviet/Downloads/des/des_core.v:688$14'.
+No latch inferred for signal `\des_core.\s7_out' from process `\des_core.$proc$/home/nguyenviet/Downloads/des/des_core.v:603$13'.
+No latch inferred for signal `\des_core.\s6_out' from process `\des_core.$proc$/home/nguyenviet/Downloads/des/des_core.v:518$12'.
+No latch inferred for signal `\des_core.\s5_out' from process `\des_core.$proc$/home/nguyenviet/Downloads/des/des_core.v:433$11'.
+No latch inferred for signal `\des_core.\s4_out' from process `\des_core.$proc$/home/nguyenviet/Downloads/des/des_core.v:348$10'.
+No latch inferred for signal `\des_core.\s3_out' from process `\des_core.$proc$/home/nguyenviet/Downloads/des/des_core.v:263$9'.
+No latch inferred for signal `\des_core.\s2_out' from process `\des_core.$proc$/home/nguyenviet/Downloads/des/des_core.v:178$8'.
+No latch inferred for signal `\des_core.\s1_out' from process `\des_core.$proc$/home/nguyenviet/Downloads/des/des_core.v:93$7'.

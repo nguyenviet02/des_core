@@ -1,0 +1,1 @@
+openroad -exit -no_splash -metrics /home/nguyenviet/Downloads/des/runs/RUN_2024-07-07_22-25-24/30-openroad-repairdesignpostgpl/or_metrics_out.json /nix/store/ch7vazi31cqikw3wq64qm4qh62m2dsrc-python3-3.11.6-env/lib/python3.11/site-packages/openlane/scripts/openroad/repair_design.tcl

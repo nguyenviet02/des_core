@@ -1,0 +1,57 @@
+{
+   "creator": "Yosys 0.38 (git sha1 543faed9c8c, clang++ 16.0.6 -fPIC -Os)",
+   "invocation": "stat -json -liberty /home/nguyenviet/Downloads/des/runs/RUN_2024-07-07_22-25-24/tmp/46ac9c5e09604a1c8fa98b5cc0fc6e58.lib ",
+   "modules": {
+      "\\des_core": {
+         "num_wires":         1215,
+         "num_wire_bits":     1580,
+         "num_pub_wires":     17,
+         "num_pub_wire_bits": 322,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         1416,
+         "area":              2788.924800,
+         "num_cells_by_type": {
+            "$_ANDNOT_": 169,
+            "$_AND_": 22,
+            "$_MUX_": 769,
+            "$_NAND_": 8,
+            "$_NOR_": 11,
+            "$_NOT_": 104,
+            "$_ORNOT_": 25,
+            "$_OR_": 54,
+            "$_XNOR_": 69,
+            "$_XOR_": 56,
+            "sky130_fd_sc_hd__dfrtp_2": 9,
+            "sky130_fd_sc_hd__dfxtp_2": 120
+         }
+      }
+   },
+      "design": {
+         "num_wires":         1215,
+         "num_wire_bits":     1580,
+         "num_pub_wires":     17,
+         "num_pub_wire_bits": 322,
+         "num_memories":      0,
+         "num_memory_bits":   0,
+         "num_processes":     0,
+         "num_cells":         1416,
+         "area":              2788.924800,
+         "num_cells_by_type": {
+            "$_ANDNOT_": 169,
+            "$_AND_": 22,
+            "$_MUX_": 769,
+            "$_NAND_": 8,
+            "$_NOR_": 11,
+            "$_NOT_": 104,
+            "$_ORNOT_": 25,
+            "$_OR_": 54,
+            "$_XNOR_": 69,
+            "$_XOR_": 56,
+            "sky130_fd_sc_hd__dfrtp_2": 9,
+            "sky130_fd_sc_hd__dfxtp_2": 120
+         }
+      }
+}
+

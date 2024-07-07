@@ -1,0 +1,27 @@
+[WARNING ORD-0039] .openroad ignored with -python
+Unannotated report:
+['report_parasitic_annotation -report_unannotated\n',
+ '============================================================================\n',
+ 'Found 8 unannotated drivers.\n',
+ ' des_key_in[0]\n',
+ ' des_key_in[16]\n',
+ ' des_key_in[24]\n',
+ ' des_key_in[32]\n',
+ ' des_key_in[40]\n',
+ ' des_key_in[48]\n',
+ ' des_key_in[56]\n',
+ ' des_key_in[8]\n',
+ 'Found 0 partially unannotated drivers.\n',
+ '\n']
+Reported nets:
+['des_key_in[0]',
+ 'des_key_in[16]',
+ 'des_key_in[24]',
+ 'des_key_in[32]',
+ 'des_key_in[40]',
+ 'des_key_in[48]',
+ 'des_key_in[56]',
+ 'des_key_in[8]']
+Filtered nets:
+[]
+done
